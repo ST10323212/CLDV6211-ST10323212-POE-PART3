@@ -1,0 +1,49 @@
+﻿@model IEnumerable<KhumaloFinal.Models.Product>
+
+@{
+    ViewData["Title"] = "Our Products";
+    var userEmail = User.Identity.Name;
+}
+
+<div class="container-fluid" style="background-color: #ffe6e6; padding-top: 30px; padding-bottom: 30px;">
+    <div class="text-center mb-4">
+        <h1 class="display-4" style="color: #d147a3;">Our Products</h1>
+    </div>
+    @if (userEmail == "Admin@admin.com")
+    {
+        <p class="text-center mb-5">
+            <a asp-action="Create" class="btn btn-primary" style="background-color: #d147a3; border-color: #d147a3;">Create New</a>
+        </p>
+    }
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4">
+                    <div class="card mb-4 shadow-sm">
+                        <img class="card-img-top" src="@item.ImageUrl" alt="Product image" style="max-height: 200px; object-fit: cover;">
+                        <div class="card-body" style="background-color: #fff0f5;">
+                            <h5 class="card-title" style="color: #d147a3;">@item.Name</h5>
+                            <p class="card-text" style="color: #b30086;">@item.Description</p>
+                            <p class="card-text" style="color: #b30086;"><strong>Price:</strong> @item.Price</p>
+                            <p class="card-text" style="color: #b30086;"><strong>Category:</strong> @item.Category</p>
+                            <p class="card-text" style="color: #b30086;"><strong>Availability:</strong> @item.Availability</p>
+                            <form asp-action="AddToCart" asp-controller="Transactions" method="post">
+                                <input type="hidden" name="ProductId" value="@item.ProductId" />
+                                <button type="submit" class="btn btn-success">Add to Cart</button>
+                            </form>
+                            @if (userEmail == "Admin@admin.com")
+                            {
+                                <div class="btn-group mt-3">
+                                    <a asp-action="Edit" asp-route-id="@item.ProductId" class="btn btn-primary">Edit</a>
+                                    <a asp-action="Details" asp-route-id="@item.ProductId" class="btn btn-secondary">Details</a>
+                                    <a asp-action="Delete" asp-route-id="@item.ProductId" class="btn btn-danger">Delete</a>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

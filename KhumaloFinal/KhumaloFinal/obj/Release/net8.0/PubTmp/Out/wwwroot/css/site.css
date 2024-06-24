@@ -1,0 +1,39 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    background-color: #ffe6e6;
+    color: #333;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, .lead {
+    margin-bottom: 20px;
+}
+
+.btn-primary:hover, .btn-primary:focus {
+    background-color: #b30086;
+    border-color: #b30086;
+}
+
+.btn-secondary:hover, .btn-secondary:focus {
+    background-color: #d147a3;
+    border-color: #d147a3;
+}
+

@@ -1,0 +1,409 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|c:\\users\\lab_services_student\\documents\\github\\practice-st10323212\\khumalofinal\\khumalofinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|solutionrelative:khumalofinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\khumalofinal\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|solutionrelative:khumalofinal\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\khumalofinal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|solutionrelative:khumalofinal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\khumalofinal\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|solutionrelative:khumalofinal\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\khumalofinal\\views\\processors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|solutionrelative:khumalofinal\\views\\processors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Data\\Migrations\\20240624081107_ProcessChange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KhumaloFinal\\Data\\Migrations\\20240624081107_ProcessChange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\khumalofinal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|solutionrelative:khumalofinal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\khumalofinal\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|solutionrelative:khumalofinal\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\khumalofinal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|solutionrelative:khumalofinal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\khumalofinal\\views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|solutionrelative:khumalofinal\\views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\khumalofinal\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|solutionrelative:khumalofinal\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\khumalofinal\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|solutionrelative:khumalofinal\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\khumalofinal\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|solutionrelative:khumalofinal\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\khumalofinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|solutionrelative:khumalofinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\khumalofinal\\views\\orderhistories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|solutionrelative:khumalofinal\\views\\orderhistories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\khumalofinal\\controllers\\processorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|solutionrelative:khumalofinal\\controllers\\processorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\khumalofinal\\models\\processor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|solutionrelative:khumalofinal\\models\\processor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\khumalofinal\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|solutionrelative:khumalofinal\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\khumalofinal\\models\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|solutionrelative:khumalofinal\\models\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\khumalofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|solutionrelative:khumalofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\khumalofinal\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|solutionrelative:khumalofinal\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\khumalofinal\\controllers\\orderhistoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|solutionrelative:khumalofinal\\controllers\\orderhistoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Data\\Migrations\\20240619132349_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|solutionrelative:KhumaloFinal\\Data\\Migrations\\20240619132349_Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Data\\Migrations\\20240619131926_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7FB013-CAF6-44F4-9E18-B05120FCA657}|KhumaloFinal\\KhumaloFinal.csproj|solutionrelative:KhumaloFinal\\Data\\Migrations\\20240619131926_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\appsettings.json",
+              "RelativeDocumentMoniker": "KhumaloFinal\\appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\appsettings.json",
+              "RelativeToolTip": "KhumaloFinal\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAADZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T19:03:10.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "KhumaloFinal\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "KhumaloFinal\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T09:03:02.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KhumaloFinal\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KhumaloFinal\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:01:06.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240624081107_ProcessChange.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Data\\Migrations\\20240624081107_ProcessChange.cs",
+              "RelativeDocumentMoniker": "KhumaloFinal\\Data\\Migrations\\20240624081107_ProcessChange.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Data\\Migrations\\20240624081107_ProcessChange.cs",
+              "RelativeToolTip": "KhumaloFinal\\Data\\Migrations\\20240624081107_ProcessChange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:11:07.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Views\\Processors\\Index.cshtml",
+              "RelativeDocumentMoniker": "KhumaloFinal\\Views\\Processors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Views\\Processors\\Index.cshtml",
+              "RelativeToolTip": "KhumaloFinal\\Views\\Processors\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T14:52:10.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "KhumaloFinal\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "KhumaloFinal\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T13:25:22.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240619132349_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Data\\Migrations\\20240619132349_Controller.cs",
+              "RelativeDocumentMoniker": "KhumaloFinal\\Data\\Migrations\\20240619132349_Controller.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Data\\Migrations\\20240619132349_Controller.cs",
+              "RelativeToolTip": "KhumaloFinal\\Data\\Migrations\\20240619132349_Controller.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:23:49.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "KhumaloFinal\\Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "KhumaloFinal\\Controllers\\TransactionsController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAADUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:23:01.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "KhumaloFinal\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "KhumaloFinal\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAA0wE4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:22:19.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "KhumaloFinal\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "KhumaloFinal\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T13:36:36.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProcessorsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Controllers\\ProcessorsController.cs",
+              "RelativeDocumentMoniker": "KhumaloFinal\\Controllers\\ProcessorsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Controllers\\ProcessorsController.cs",
+              "RelativeToolTip": "KhumaloFinal\\Controllers\\ProcessorsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:21:45.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Program.cs",
+              "RelativeDocumentMoniker": "KhumaloFinal\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Program.cs",
+              "RelativeToolTip": "KhumaloFinal\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:15:14.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "KhumaloFinal\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Models\\Product.cs",
+              "RelativeToolTip": "KhumaloFinal\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:12:01.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "KhumaloFinal\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "KhumaloFinal\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-24T09:06:55.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Processor.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Models\\Processor.cs",
+              "RelativeDocumentMoniker": "KhumaloFinal\\Models\\Processor.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Models\\Processor.cs",
+              "RelativeToolTip": "KhumaloFinal\\Models\\Processor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:11:49.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Views\\Transactions\\Index.cshtml",
+              "RelativeDocumentMoniker": "KhumaloFinal\\Views\\Transactions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Views\\Transactions\\Index.cshtml",
+              "RelativeToolTip": "KhumaloFinal\\Views\\Transactions\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T13:48:39.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "KhumaloFinal\\Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "KhumaloFinal\\Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T13:25:39.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderHistoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Controllers\\OrderHistoriesController.cs",
+              "RelativeDocumentMoniker": "KhumaloFinal\\Controllers\\OrderHistoriesController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Controllers\\OrderHistoriesController.cs",
+              "RelativeToolTip": "KhumaloFinal\\Controllers\\OrderHistoriesController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:21:06.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Views\\OrderHistories\\Index.cshtml",
+              "RelativeDocumentMoniker": "KhumaloFinal\\Views\\OrderHistories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Views\\OrderHistories\\Index.cshtml",
+              "RelativeToolTip": "KhumaloFinal\\Views\\OrderHistories\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T08:44:21.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KhumaloFinal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KhumaloFinal\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T08:51:00.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240619131926_initial.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Data\\Migrations\\20240619131926_initial.cs",
+              "RelativeDocumentMoniker": "KhumaloFinal\\Data\\Migrations\\20240619131926_initial.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Data\\Migrations\\20240619131926_initial.cs",
+              "RelativeToolTip": "KhumaloFinal\\Data\\Migrations\\20240619131926_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:19:27.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "KhumaloFinal\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Models\\Transaction.cs",
+              "RelativeToolTip": "KhumaloFinal\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:12:17.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "KhumaloFinal\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "KhumaloFinal\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T13:27:16.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderHistory.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Models\\OrderHistory.cs",
+              "RelativeDocumentMoniker": "KhumaloFinal\\Models\\OrderHistory.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10323212\\KhumaloFinal\\KhumaloFinal\\Models\\OrderHistory.cs",
+              "RelativeToolTip": "KhumaloFinal\\Models\\OrderHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:11:33.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
